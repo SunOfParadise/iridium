@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Iridium - Quantum Wealth & Health</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        nav {
+            background-color: #444;
+            text-align: center;
+            padding: 10px 0;
+        }
+        nav a {
+            text-decoration: none;
+            color: white;
+            padding: 10px 20px;
+        }
+        nav a:hover {
+            background-color: #555;
+        }
+        section {
+            padding: 50px;
+            text-align: center;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Welcome to Iridium</h1>
+    <p>Unlocking Quantum Wealth & Health</p>
+</header>
+
+<nav>
+    <a href="#about">About</a>
+    <a href="#services">Services</a>
+    <a href="#contact">Contact</a>
+</nav>
+
+<section id="about">
+    <h2>About Iridium</h2>
+    <p>Iridium Group focuses on merging the world of Quantum Wealth through cryptocurrency and digital assets with Quantum Health - achieving the highest form of wellness.</p>
+</section>
+
+<section id="services">
+    <h2>Our Services</h2>
+    <p>We offer a range of services in cryptocurrency, digital assets, digital finance, as well as innovative approaches to Quantum Health and wellness.</p>
+</section>
+
+<section id="contact">
+    <h2>Contact Us</h2>
+    <p>Reach out to us for inquiries, collaborations, or any further information.</p>
+    <p>Email: info@iridiumgroup.com</p>
+</section>
+
+<footer>
+    <p>&copy; 2023 Iridium Group</p>
+</footer>
+
+</body>
+</html>
